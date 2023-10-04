@@ -1,6 +1,6 @@
 # HW01-Horiseon-Meeting-Accessibility-Standards
 ## Description
-I refactored existing code to meet accessiblity standards, which allows the site to be optimized for search engines.
+I was hired by a marketing agency to refactor existing code to meet accessiblity standards, which allows the site to be optimized for search engines.
 
 ## Project Action Steps
 - I updated the site to meet accessibility standards. 
