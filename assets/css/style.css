@@ -1,29 +1,30 @@
+/* This is universal code for the entire site */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* This set the background color of the body of the site */
 body {
     background-color: #d9dcd6;
 }
-
+/* This is to format the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* This is used to format all header 1 elements */
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* This specifically targets the letters "SEO" in Horiseon in the header */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* I changed div to nav so it links correctly with the HTML */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +32,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* I changed div to nav so it links correctly with the HTML */
 .header nav ul {
     list-style-type: none;
 }
-
+/* I changed div to nav so it links correctly with the HTML */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -100,40 +101,40 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* This formats the lead generation header */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* This formats the brand awareness header */
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* This formats the cost management header */
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* This formats the lead generation icon */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* This formats the brand awareness icon */
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* This formats the cost management icon */
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* This formats the SEO section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -142,7 +143,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This formats the ORM section */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -151,7 +152,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This formats the SMM section */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,41 +161,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* This sets the height of the SEO image */
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/* This sets the height of the ORM image */
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/* This sets the height of the SMM image */
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* This formats the SEO header */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This formats the ORM header */
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This formats the SMM header */
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* This formats the footer */
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* This is used to format the footer header */
 .footer h2 {
     font-size: 20px;
 }
