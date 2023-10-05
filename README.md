@@ -16,7 +16,7 @@ I was hired by a marketing agency to refactor existing code to meet accessiblity
 ## Site Screenshot
 ![Alt text](image.png)
 ## Link to Deployed Application
-
+- https://gmeyer24.github.io/HW01-Horiseon-Meeting-Accessibility-Standards/
 ## About the Author
 - Email: gpmeyer24@gmail.com
 - GitHub: gmeyer24
